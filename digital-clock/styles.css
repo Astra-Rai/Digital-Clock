@@ -7,7 +7,7 @@
 }
 
 body{
-    background: url("./beauty.jpg");
+    background: url("./sand.jpg");
     font-family: 'Orbitron', sans-serif;
 }
 
@@ -21,18 +21,7 @@ body{
     padding: 30px;
 }
 
-.badge{
 
-    width: 96px;
-    background: #e66357;
-    color: #fff;
-    padding: 5px 10px;
-    font-family: sans-serif;
-    font-weight: bold;
-    position: absolute;
-    top: -15px;
-    left: 40%;
-}
 
 .clock{
     background: #ebebeb;
@@ -40,6 +29,7 @@ body{
     font-size: 55px;
     height: 100%;
     padding-top: 35px;
+    padding-bottom:35px;
     font-family: 'Orbitron';
     border-radius: 4px;
 }
